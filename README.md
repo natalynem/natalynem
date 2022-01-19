@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @natalynem
-- 👀 I’m interested in cats
+- 🙀 I’m interested in cats
 - 🌱 I’m currently learning Spring
 
 <!---
